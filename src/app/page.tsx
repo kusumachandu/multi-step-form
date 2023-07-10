@@ -11,7 +11,6 @@ export default function Home() {
             <h1 className="text-center font-bold">SignUp Form</h1>
             <div>
               <SignUpForm />
-              <SigninForm />
             </div>
           </div>
         </div>
